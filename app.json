@@ -37,6 +37,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "989ea912-b5f3-4407-90f1-fe364326bb63"
+      }
+    },
+    "owner": "maksimburahins-team"
   }
 }
