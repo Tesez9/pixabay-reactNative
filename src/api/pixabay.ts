@@ -7,6 +7,7 @@ export interface PixabayImage {
   largeImageURL: string;
   views: number;
   likes: number;
+  downloads: number;
   user: string;
 }
 
